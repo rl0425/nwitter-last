@@ -27,6 +27,14 @@ Nwitter uses a number of open source projects to work properly:
 
 ## Installation
 
+Clone Repository
+```sh
+mkdir project
+cd Project
+git clone https://github.com/rl0425/nwitter-last.git
+cd ToDo-list
+```
+
 Install the dependencies and start the server.
 
 ```sh
