@@ -32,7 +32,7 @@ Clone Repository
 mkdir project
 cd Project
 git clone https://github.com/rl0425/nwitter-last.git
-cd ToDo-list
+cd nwitter-last
 ```
 
 Install the dependencies and start the server.
